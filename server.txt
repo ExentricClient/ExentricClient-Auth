@@ -1,1 +1,1 @@
-https://hong-divorce-hebrew-attach.trycloudflare.com
+https://api.trycloudflare.com
